@@ -16,6 +16,21 @@ img{
   width: 20%;
 }
 
+.records{
+  width: 150px;
+  margin: 0 80px 0 auto;
+  background-color: #f1c6c6;
+  padding: 10px 5px;
+  border-radius: 50px;
+  color: #31413D;
+}
+
+.record_a{
+  text-decoration: none;
+  text-align: center;
+  color: #31413D;
+}
+
 .title{
   color: #31413D;
   font-size: 27px;
